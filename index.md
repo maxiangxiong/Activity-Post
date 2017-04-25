@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## 题目
+*我也没想好啊*
 
-You can use the [editor on GitHub](https://github.com/maxiangxiong/maxiangxiong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 时间
+2017年5月4日19:00
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 地点
+沙河校区
 
-### Markdown
+## 主要内容
+四位不同领域的大牛学长/学姐，结合自身擅长，以聊天的形式给大家讲述：
+1. 金融行业中各种机构和各种职业的工作内容和所需技能；
+2. 精算学生如何提前准备、顺利转型；
+3. 找实习、找工作的实用技巧。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 嘉宾
+### 杨洋
+* Class：2017届精算学硕士
+* Intern：中城建投“四川酒业并购和保险金融投资”项目组、银河证券投资银行部/债券融资总部、安信证券并购融资部、嘉实基金产品管理部
+* Offers：易方达基金投资发展部产品研究岗；鹏华基金、招商基金、融通基金、渤海证券
+* Decision：易方达基金
 
-```markdown
-Syntax highlighted code block
+### 时光
+* Class：2017届精算学硕士
+* Intern：中金公司战略研究部金融组、九鼎投资消费品投资部、复星集团重大项目投资发展部、民生银行资产托管部、中信证券研究部固定收益组
+* Offers：农业银行总行金融市场部；复星集团投资管理培训生、民生银行总行管理培训生、华泰联合证券成长企业融资部财务顾问
+* Decision：农业银行总行
 
-# Header 1
-## Header 2
-### Header 3
+### 白明光
+* Class：2017届精算学硕士
+* Intern：华创证券投资银行部
+* Offers：华创证券投资银行部
+* Decision：华创证券
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maxiangxiong/maxiangxiong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 关竹
+* Class：金融学院2016届金融硕士
+* Intern：华夏银行总行市场部、安家世行小微贷款公司产品部、信达证券研发中心、合众资管风控部
+* Offers：信达证券研发中心研究员；方正证券资管部、合众资管风控部、泰康资管企业年金部
+* Decision：信达证券
