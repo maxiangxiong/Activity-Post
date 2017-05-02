@@ -12,6 +12,12 @@
 
 ## 嘉宾
 
+### 董顺科
+- Class：2015级精算学硕士
+- Intern：unknown
+- GPA：unknown
+- Exams：unknown
+
 ### 杜萌
 - Class：2017届精算学硕士
 - Intern：泰康在线产品部、中国人寿精算部、阳光集团精算部、韦莱韬悦寿险精算咨询中国人寿项目组
