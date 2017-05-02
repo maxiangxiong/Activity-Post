@@ -14,21 +14,21 @@
 
 ### 董顺科
 - Class：2015级精算学硕士
-- Intern：unknown
-- GPA：unknown
-- Exams：unknown
+- Intern：中再寿险产品开发与创新部、申万宏源资管资管业务部、慕再北分寿险精算部
+- GPA：本科3/41、硕士2/24
+- Exams：A1-A8, F8, F10 of CAA; P, FM, MLC, MFE, C of SOA; Level-I of CFA
 
 ### 杜萌
 - Class：2017届精算学硕士
 - Intern：泰康在线产品部、中国人寿精算部、阳光集团精算部、韦莱韬悦寿险精算咨询中国人寿项目组
-- Offers：中国人寿精算部、阳光集团精算部
+- Offers：中国人寿精算部；阳光集团精算部
 - Decision：中国人寿
 
 ### 范岳璐
 - Class：2017届精算学硕士
-- Intern：unknown
-- Offers：unknown
-- Decision：unknown
+- Intern：慕再北分健康险部、安永咨询财险精算、中信保精算部、中再产险精算部、阳光财险精算部
+- Offers：阳光财险精算部；安永咨询财险精算
+- Decision：阳光财险
 
 ### 马祥雄
 - Class：2017届精算学硕士
@@ -39,10 +39,10 @@
 ### 蒙羞叶
 - Class：2017届精算学硕士
 - Intern：韦莱韬悦寿险精算咨询、光博精算咨询、中国人寿精算部、阳光集团精算部
-- Offers：中国人寿精算部、阳光集团精算部
+- Offers：中国人寿精算部；阳光集团精算部
 - Decision：中国人寿
 
 ### 王运鹏
 - Class：2017届精算学博士
 - Research：参与李晓林老师的多个科研项目、《保险研究》等杂志发表学术论文
-- Exams：CA1, ST5, ST6 of IFOA
+- Exams：CT1-CT8, CA1, ST5, ST6 of IFOA
